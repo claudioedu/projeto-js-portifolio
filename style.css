@@ -123,9 +123,12 @@ ul li a:hover {
   transition: backgroud 0.2s;
   border-radius: 50%;
 }
-#social-links a:hover {
-  background: var(--higthlight-color);
-}
+
+  #social-links a:hover {
+    background: var(--higthlight-color);
+  }
+  
+
 footer {
   padding: 24px 0;
   text-align: center;
